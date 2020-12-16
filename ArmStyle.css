@@ -1,0 +1,14 @@
+h2{color: darkblue;}
+
+body{background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 1200px;
+	font-family: serif;
+
+	}
+
+	#attr{
+	color: darkblue;
+	font-size: 20px
+
